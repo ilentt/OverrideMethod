@@ -7,7 +7,6 @@ public class OverrideMethodTest {
 	@Test
 	public void testMain() {
 		CompareNumberOfMedals.main(new String[] {});
-		
 	}
 	
 	@Test
