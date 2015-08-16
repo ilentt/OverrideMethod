@@ -1,4 +1,4 @@
-package ilen;
+package ilentt.ilenlab.com.overridemethod;
 
 public class CompareNumberOfMedals {
 	
