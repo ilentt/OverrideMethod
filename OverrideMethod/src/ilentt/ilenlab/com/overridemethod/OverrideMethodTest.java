@@ -2,7 +2,7 @@ package ilentt.ilenlab.com.overridemethod;
 
 import org.junit.Test;
 
-public class OverrideMethod {
+public class OverrideMethodTest {
 
 	@Test
 	public void testMain() {
